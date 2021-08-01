@@ -2,7 +2,7 @@ This repository contains both code and data files for the manuscript entitled "O
 
 https://www.sciencedirect.com/science/article/pii/S1366554521001368?dgcid=author
 
-Excel File contains all the parameters needed to run the model. The user can create his / her own dat.file by using the data shared in the Excel File.
+Excel File contains all the parameters needed to run the model. The user can create his / her own dat.file by using the data shared in the Excel file.
 
 Runner.mod file helps to call the OPL model for each scenerio one by one. 
 
